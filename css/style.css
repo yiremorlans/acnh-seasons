@@ -1,0 +1,51 @@
+/******************************************
+/* HOT GARBAGE - PLEASE DON'T MIMIC THIS CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+  font-family: 'Architects Daughter', cursive, sans-serif;
+  list-style-type: none;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+body {
+  background: #3a807a url(https://images.nintendolife.com/2f781fe01ecd7/animal-crossing-new-horizons.large.jpg);
+  background-size: cover;
+  background-position: stretch;
+  background-repeat: no-repeat;
+}
+
+h1 {
+  color: white;
+  margin-top: 80px;
+  text-align: center;
+}
+img{
+  display: block;
+  height: 200px;
+  margin: 0 auto;
+}
+ul {
+  margin-left: 30%;
+}
+
+li{
+  background: rgba(250, 248, 248, 0.3);
+  border: 2px solid white;
+  border-radius: 50%;
+  display: inline;
+  padding: 10px 30px;
+  font-size: 40px;
+  color: white;
+  width: 94px;
+  height: 65px;
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+
