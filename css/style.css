@@ -21,6 +21,7 @@ body {
 
 h1 {
   color: white;
+  font-size: 2.8rem;
   margin-top: 80px;
   text-align: center;
 }
@@ -30,7 +31,7 @@ img{
   margin: 0 auto;
 }
 ul {
-  margin-left: 30%;
+  text-align: center;
 }
 
 li{
@@ -39,7 +40,7 @@ li{
   border-radius: 50%;
   display: inline;
   padding: 10px 30px;
-  font-size: 40px;
+  font-size: 2.8rem;
   color: white;
   width: 94px;
   height: 65px;
