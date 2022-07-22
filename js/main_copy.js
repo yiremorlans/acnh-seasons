@@ -18,3 +18,4 @@ function fallTime () {
 function winterTime () {
   document.querySelector('body').style.backgroundImage = "url('./img/NH_Making_Snowboy.jpeg')";
 }
+
