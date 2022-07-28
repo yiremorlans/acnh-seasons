@@ -1,7 +1,7 @@
 # Animal Crossing New Horizons: Seasons
 Part of the immersive experience of playing any Animal Crossing game is playing in real time. Set your island clock to your designated hemisphere location and real clock, and discover all the seasonal changes and beauty the game will offer you through the year! This web app is to showcase New Horizon's beautiful seasonal landscapes and characteristics! Select from four seasonal buttons: Enjoy cherry blossom season during the spring. Summer showers and unique bugs, and fish. Watch the colors on trees and landscapes change during the fall, and build the best snowman yet during winter season! 
 
-**Link to project:** https://github.com/yiremorlans/acnh-seasons
+**Link to project:** https://yiremorlans.github.io/acnh-seasons/
 
 ![AC Seasons web app](https://github.com/yiremorlans/yiremorlans/blob/main/seasons.webp)
 
